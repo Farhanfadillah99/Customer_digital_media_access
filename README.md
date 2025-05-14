@@ -1,2 +1,2 @@
 # Customer_digital_media_access
-Project Dashboard Analysis Using PowerBI to get insight about potential customer based on generation group, media platform, and what time they access media online platform
+Developed an interactive Power BI dashboard to analyze customer digital behavior with the goal of identifying potential target customers based on generational segments, preferred media platforms, and peak online activity times. The dashboard was designed to support data-driven marketing decisions and improve audience targeting strategies.
